@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.user-info {
+    text-align: center;
+  }
+  
+  #user-photo {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  #additional-info {
+    display: none;
+  }
+  
+  #additional-info p {
+    font-size: 18px;
+  }
+  
